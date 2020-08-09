@@ -16,12 +16,12 @@ Empirical Software Engineering, Mining Software Repositories, Code Review, Machi
 
 Education Background
 ------
-* PhD Candidate of Engineering, Nara Institute of Science and Technology, Japan.
-* Master of Engineering, 2019, Nara Institute of Science and Technology, Japan.
+* :mortar_board: PhD Candidate of Engineering, Nara Institute of Science and Technology, Japan.
+* :mortar_board: Master of Engineering, 2019, Nara Institute of Science and Technology, Japan.
 
 For more info
 ------
-More info, please contact me
+More info, please contact me :envelope:
 ```
 wang.dong.vt8@is.naist.jp
 ```
