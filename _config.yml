@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Balan Ramesh"
+title                    : "Dong Wang"
 title_separator          : "-"
-name                     : &name "Balan Ramesh"
+name                     : &name "Dong Wang"
 description              : &description "personal description"
-url                      : https://rameshbalan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dong-w.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rameshbalan/rameshbalan.github.io"
+repository               : "dong-w/dong-w.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "profile.jpg"
+  avatar           : "WANG.JPG"
   bio              : 
   location         : 
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=knPClxUAAAAJ"
+  googlescholar    : ""
   email            :
   uri              :
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rameshbalan"
+  github           : "dong-w"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : rameshbalan26
+  twitter          : 
   vine             :
   weibo            :
   xing             :
