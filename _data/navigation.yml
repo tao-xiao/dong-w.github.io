@@ -2,8 +2,8 @@
 main:
   - title: "Research Experience"
     url: /research/
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
   - title: "Publications"
     url: /publications/
   #- title: "Fun Little Things"
