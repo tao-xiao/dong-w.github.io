@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Visiting Experience
-* 2019.10-2019.11, The University of Melbourne, Australia, under Patanamon Thongtanunam.
+* 2019.10-2019.11, The University of Melbourne, Australia, under [Patanamon Thongtanunam](https://patanamon.com/).
 
 ## Paper Review Experience
 
