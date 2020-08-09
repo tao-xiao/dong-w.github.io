@@ -6,5 +6,5 @@ main:
     url: /cv/
   - title: "Publications"
     url: /publications/
-  - title: "Fun Little Things"
-    url: /portfolio/
+  #- title: "Fun Little Things"
+  #  url: /portfolio/
