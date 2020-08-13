@@ -12,6 +12,7 @@ author_profile: true
 
 * Sub-reviewer, MSR 2020 Datacase.
 * Sub-reviewer, ICPC 2020.
+* Sub-reviewer, VISSOFT 2019.
 
 ## Research Awards & Activities
 
