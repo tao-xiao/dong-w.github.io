@@ -8,6 +8,9 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+## 2021
+* Moataz Chouchen, Ali Ouni, Raula Gaikovina Kula, **Dong Wang**, Patanamon Thongtanunam, Mohamed Wiem Mkaouer, Kenichi Matsumoto. Anti-patterns in Modern Code Review: Symptoms and Prevalence. This 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2021. 
+
 ## 2020
 * Ifraz Rehman, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Newcomer Candidate: Characterizing Contributions of a Novice Developer to GitHub. 36th International Conference on Software Maintenance and Evolution (ICSME), Registered Rport, 2020. [PDF](https://www.researchgate.net/publication/343498679_Newcomer_Candidate_Characterizing_Contributions_of_a_Novice_Developer_to_GitHub)
 
