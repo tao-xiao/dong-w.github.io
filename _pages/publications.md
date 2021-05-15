@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2021
-* **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Automatic Patch Linkage Detection in Code Review Using Textual Content and File Location Features. Information and Software Technology. to appear
+* **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Automatic Patch Linkage Detection in Code Review Using Textual Content and File Location Features. Information and Software Technology (IST). to appear
 * Moataz Chouchen, Ali Ouni, Raula Gaikovina Kula, **Dong Wang**, Patanamon Thongtanunam, Mohamed Wiem Mkaouer, Kenichi Matsumoto. Anti-patterns in Modern Code Review: Symptoms and Prevalence. This 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2021. 
 
 ## 2020
