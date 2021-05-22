@@ -18,6 +18,7 @@ author_profile: true
 
 ## Research Awards & Activities
 
+* Research Assisstant, 2021-2022, Nara Institute of Science and Technology.
 * Web Chair, The 10th International Workshop on Empirical Software Engineering in Practice (IWESEP).
 * Publication Chair, The 11th International Workshop on Empirical Software Engineering in Practice (IWESEP).
 * Student Volunteers, 25th Asia-Pacific Software Engineering Conference (APSEC).
